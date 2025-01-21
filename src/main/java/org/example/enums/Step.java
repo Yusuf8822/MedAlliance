@@ -1,0 +1,7 @@
+package org.example.enums;
+
+public enum Step {
+
+    DEFAULT, ENTER_SERVICE, ENTER_FIRSTNAME, ENTER_LASTNAME, ENTER_PHONE_NUMBER, ENTER_TIME
+
+}
